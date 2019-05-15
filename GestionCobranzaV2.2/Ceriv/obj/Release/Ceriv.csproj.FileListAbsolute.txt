@@ -1,0 +1,2 @@
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\bin\Release\GESTION DE COBRANZA.exe.config
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Release\Ceriv.csproj.ResolveComReference.cache

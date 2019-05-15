@@ -1,0 +1,1722 @@
+c:\users\user\documents\visual studio 2012\Projects\Ceriv\Ceriv\bin\Debug\Ceriv.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+c:\users\user\documents\visual studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Ceriv\Ceriv\bin\Debug\Ceriv.exe
+c:\users\user\documents\visual studio 2012\Projects\Ceriv\Ceriv\bin\Debug\Ceriv.pdb
+c:\users\user\documents\visual studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.exe
+c:\users\user\documents\visual studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\Mono.Security.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\Npgsql.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\Npgsql.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\Npgsql.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\de\Npgsql.resources.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\es\Npgsql.resources.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+C:\Users\PC\Desktop\Ceriv\Ceriv\bin\Debug\Ceriv.exe.config
+C:\Users\PC\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.exe
+C:\Users\PC\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.pdb
+C:\Users\PC\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+C:\Users\PC\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+C:\Users\PC\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+C:\Users\PC\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EliminarExpediente.resources
+C:\Users\PC\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+C:\Users\PC\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+C:\Users\PC\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Juzgado.resources
+C:\Users\PC\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+C:\Users\PC\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+C:\Users\PC\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+C:\Users\PC\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Prueba.resources
+C:\Users\PC\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Resumen.resources
+C:\Users\PC\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+C:\Users\PC\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+C:\Users\PC\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Ceriv\Ceriv\bin\Debug\Ceriv.exe
+C:\Users\PC\Desktop\Ceriv\Ceriv\bin\Debug\Ceriv.pdb
+C:\Users\PC\Desktop\Ceriv\Ceriv\bin\Debug\Npgsql.pdb
+C:\Users\PC\Desktop\Ceriv\Ceriv\bin\Debug\Npgsql.xml
+C:\Users\PC\Desktop\Ceriv\Ceriv\bin\Debug\de\Npgsql.resources.dll
+C:\Users\PC\Desktop\Ceriv\Ceriv\bin\Debug\es\Npgsql.resources.dll
+C:\Users\PC\Desktop\Ceriv\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\PC\Desktop\Ceriv\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\PC\Desktop\Ceriv\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\PC\Desktop\Ceriv\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\Ceriv.exe.config
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.exe
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.pdb
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\Ceriv.exe
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\Ceriv.pdb
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\Npgsql.pdb
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\Npgsql.xml
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\Ceriv.exe.config
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.exe
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.pdb
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\Ceriv.exe
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\Ceriv.pdb
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\Npgsql.pdb
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\Npgsql.xml
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\de\Npgsql.resources.dll
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\es\Npgsql.resources.dll
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EliminarExpediente.resources
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Juzgado.resources
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Prueba.resources
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Resumen.resources
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+C:\Users\PC\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\Ceriv.exe.config
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.exe
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.pdb
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\Ceriv.exe
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\Ceriv.pdb
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\Npgsql.pdb
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\Npgsql.xml
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\de\Npgsql.resources.dll
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\es\Npgsql.resources.dll
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EliminarExpediente.resources
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Juzgado.resources
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Prueba.resources
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Resumen.resources
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\Ceriv.exe.manifest
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\Ceriv.application
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.exe.manifest
+F:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.application
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\Ceriv.exe.config
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.exe
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.pdb
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\Ceriv.exe.manifest
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\Ceriv.application
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\Ceriv.exe
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\Ceriv.pdb
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\Npgsql.pdb
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\Npgsql.xml
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\de\Npgsql.resources.dll
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\es\Npgsql.resources.dll
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EliminarExpediente.resources
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Juzgado.resources
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Prueba.resources
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Resumen.resources
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.exe.manifest
+I:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.application
+E:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\Ceriv.exe.config
+E:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.exe
+E:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.pdb
+E:\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\Ceriv.exe.config
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.exe
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.pdb
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\Ceriv.exe.manifest
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\Ceriv.application
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\Ceriv.exe
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\Ceriv.pdb
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\Npgsql.pdb
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\Npgsql.xml
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\de\Npgsql.resources.dll
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\es\Npgsql.resources.dll
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EliminarExpediente.resources
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Juzgado.resources
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Prueba.resources
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Resumen.resources
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.exe.manifest
+C:\Users\usuario\Desktop\Ceriv (1)\Nueva carpeta\Ceriv\Ceriv\obj\Debug\Ceriv.application
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\Ceriv.exe.manifest
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\Ceriv.application
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.exe.manifest
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.application
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\Ceriv.exe.manifest
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\Ceriv.application
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.exe.manifest
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.application
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\Ceriv.exe.config
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.exe
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.pdb
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\Ceriv.exe.config
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.exe
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.pdb
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\Ceriv.exe.manifest
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\Ceriv.application
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\Ceriv.exe
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\Ceriv.pdb
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\Npgsql.pdb
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\Npgsql.xml
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\de\Npgsql.resources.dll
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\es\Npgsql.resources.dll
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.exe.manifest
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.application
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_AuditoriaCeriv.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionCampo.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionLlamada.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_AuditoriaCeriv.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionCampo.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionLlamada.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FormaMedidaCautelar.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\bin\Debug\Ceriv.exe.config
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.exe
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.pdb
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EliminarExpediente.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_NumeroExpediente.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FormaMedidaCautelar.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_AuditoriaCeriv.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionCampo.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionLlamada.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.IngresarTitular.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Juzgado.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Prueba2.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Prueba3.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Prueba.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Resumen.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\bin\Debug\Ceriv.exe.manifest
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\bin\Debug\Ceriv.application
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\bin\Debug\Ceriv.exe
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\bin\Debug\Ceriv.pdb
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\bin\Debug\Npgsql.pdb
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\bin\Debug\Npgsql.xml
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.exe.manifest
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\nuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.application
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\bin\Debug\Ceriv.exe.config
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.exe
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.pdb
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EliminarExpediente.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_NumeroExpediente.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FormaMedidaCautelar.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_AuditoriaCeriv.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionCampo.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionLlamada.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.IngresarTitular.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Juzgado.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Prueba2.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Prueba3.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Prueba.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Resumen.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\bin\Debug\Ceriv.exe.manifest
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\bin\Debug\Ceriv.application
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\bin\Debug\Ceriv.exe
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\bin\Debug\Ceriv.pdb
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\bin\Debug\Npgsql.pdb
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\bin\Debug\Npgsql.xml
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.exe.manifest
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\REKT\Ceriv\Ceriv\obj\Debug\Ceriv.application
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\bin\Debug\Ceriv.exe.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EliminarExpediente.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_NumeroExpediente.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FormaMedidaCautelar.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_AuditoriaCeriv.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionCampo.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionLlamada.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.IngresarTitular.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Juzgado.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Prueba2.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Prueba3.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Prueba.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Resumen.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+E:\TRABAJO\_ceriv\NuevoCeriv\Ceriv\Ceriv\bin\Debug\Ceriv.exe.config
+E:\TRABAJO\_ceriv\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.exe
+E:\TRABAJO\_ceriv\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.pdb
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.F_Distrito.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\bin\Debug\Ceriv.exe.manifest
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\bin\Debug\Ceriv.application
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\bin\Debug\Ceriv.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\bin\Debug\Ceriv.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\bin\Debug\Npgsql.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\bin\Debug\Npgsql.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\bin\Debug\de\Npgsql.resources.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\bin\Debug\es\Npgsql.resources.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.F_Distrito.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.exe.manifest
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.application
+E:\NuevoCeriv\Ceriv\Ceriv\bin\Debug\Ceriv.exe.config
+E:\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.exe
+E:\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.pdb
+G:\NuevoCeriv\Ceriv\Ceriv\bin\Debug\Ceriv.exe.config
+G:\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.exe
+G:\NuevoCeriv\Ceriv\Ceriv\obj\Debug\Ceriv.pdb
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FormaMedidaCautelar.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.F_Distrito.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_DoiCliente.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_NombreTitular.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_DoiCliente.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_NombreTitular.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.F_Distrito.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EliminarCuentaBT.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EliminarCuentaBT.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Liquidacion.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\Ceriv.exe.config
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.exe
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\Ceriv.exe.manifest
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\Ceriv.application
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\Ceriv.exe
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\Ceriv.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\Npgsql.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\Npgsql.xml
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\de\Npgsql.resources.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\es\Npgsql.resources.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EliminarCuentaBT.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_DoiCliente.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_NombreTitular.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FormaMedidaCautelar.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_AuditoriaCeriv.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionCampo.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionLlamada.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Liquidacion.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.F_Distrito.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.IngresarTitular.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Prueba2.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Prueba3.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Prueba.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Resumen.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.exe.manifest
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.application
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GerenciaSBP.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.ResolveComReference.cache
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.ResolveComReference.cache
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GerenciaSBP.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_CambioModelo.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_PaseTransito.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteCartas.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_CreditosEliminados.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeJudicial.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_SolicitudAdelanto.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.ResolveComReference.cache
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeSSI.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienHipotecado.resources
+C:\Users\Fernando\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EstadoProcesal.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\Ceriv.exe.config
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.ResolveComReference.cache
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.exe
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.pdb
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\Ceriv.exe.manifest
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\Ceriv.application
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\Ceriv.exe
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\Ceriv.pdb
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\Npgsql.pdb
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\Npgsql.xml
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\de\Npgsql.resources.dll
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\es\Npgsql.resources.dll
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienHipotecado.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EliminarCuentaBT.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EstadoProcesal.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_DoiCliente.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_NombreTitular.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FormaMedidaCautelar.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_AuditoriaCeriv.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_CambioModelo.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_CreditosEliminados.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GerenciaSBP.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionCampo.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionLlamada.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeJudicial.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeSSI.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Liquidacion.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_PaseTransito.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteCartas.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_SolicitudAdelanto.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.F_Distrito.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.exe.manifest
+G:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.application
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.ResolveComReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.ResolveComReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienHipotecado.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EstadoProcesal.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_CambioModelo.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_CreditosEliminados.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GerenciaSBP.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeJudicial.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeSSI.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Liquidacion.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_PaseTransito.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteCartas.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_SolicitudAdelanto.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.ResolveComReference.cache
+C:\Users\usuario\Desktop\Ceriv\Ceriv\bin\Debug\Npgsql.pdb
+C:\Users\usuario\Desktop\Ceriv\Ceriv\bin\Debug\Npgsql.xml
+C:\Users\usuario\Desktop\Ceriv\Ceriv\bin\Debug\de\Npgsql.resources.dll
+C:\Users\usuario\Desktop\Ceriv\Ceriv\bin\Debug\es\Npgsql.resources.dll
+C:\Users\usuario\Desktop\Ceriv\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\usuario\Desktop\Ceriv\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\usuario\Desktop\Ceriv\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\usuario\Desktop\Ceriv\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienHipotecado.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EliminarCuentaBT.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EstadoProcesal.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_DoiCliente.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_NombreTitular.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FormaMedidaCautelar.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_AuditoriaCeriv.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_CambioModelo.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_CreditosEliminados.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GerenciaSBP.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionCampo.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionLlamada.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeJudicial.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeSSI.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Liquidacion.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_PaseTransito.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteCartas.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_SolicitudAdelanto.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.F_Distrito.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+E:\Ceriv\Ceriv\bin\Debug\Ceriv.exe.config
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.ResolveComReference.cache
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.exe
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.pdb
+E:\Ceriv\Ceriv\bin\Debug\Ceriv.exe.manifest
+E:\Ceriv\Ceriv\bin\Debug\Ceriv.application
+E:\Ceriv\Ceriv\bin\Debug\Ceriv.exe
+E:\Ceriv\Ceriv\bin\Debug\Ceriv.pdb
+E:\Ceriv\Ceriv\bin\Debug\Npgsql.pdb
+E:\Ceriv\Ceriv\bin\Debug\Npgsql.xml
+E:\Ceriv\Ceriv\bin\Debug\de\Npgsql.resources.dll
+E:\Ceriv\Ceriv\bin\Debug\es\Npgsql.resources.dll
+E:\Ceriv\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+E:\Ceriv\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+E:\Ceriv\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+E:\Ceriv\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienHipotecado.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EliminarCuentaBT.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EstadoProcesal.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_DoiCliente.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_NombreTitular.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FormaMedidaCautelar.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_AuditoriaCeriv.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_CambioModelo.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_CreditosEliminados.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GerenciaSBP.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionCampo.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionLlamada.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeJudicial.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeSSI.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Liquidacion.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_PaseTransito.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteCartas.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_SolicitudAdelanto.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.F_Distrito.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.exe.manifest
+E:\Ceriv\Ceriv\obj\Debug\Ceriv.application
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienHipotecado.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EliminarCuentaBT.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EstadoProcesal.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_DoiCliente.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_NombreTitular.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FormaMedidaCautelar.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_AuditoriaCeriv.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_CambioModelo.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_CreditosEliminados.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GerenciaSBP.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionCampo.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionLlamada.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeJudicial.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeSSI.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Liquidacion.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_PaseTransito.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteCartas.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_SolicitudAdelanto.resources
+I:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.F_Distrito.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\Ceriv.exe.manifest
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\Ceriv.application
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\Ceriv.exe
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\Ceriv.pdb
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\Npgsql.pdb
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\Npgsql.xml
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\de\Npgsql.resources.dll
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\es\Npgsql.resources.dll
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienHipotecado.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EliminarCuentaBT.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EstadoProcesal.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_DoiCliente.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_NombreTitular.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FormaMedidaCautelar.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_AuditoriaCeriv.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_CambioModelo.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_CreditosEliminados.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GerenciaSBP.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionCampo.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionLlamada.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeJudicial.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeSSI.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Liquidacion.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_PaseTransito.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteCartas.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_SolicitudAdelanto.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.F_Distrito.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.exe.manifest
+E:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.application
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\bin\Debug\Ceriv.exe.config
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.ResolveComReference.cache
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.exe
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.pdb
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\bin\Debug\Ceriv.exe.manifest
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\bin\Debug\Ceriv.application
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\bin\Debug\Ceriv.exe
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\bin\Debug\Ceriv.pdb
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\bin\Debug\Npgsql.pdb
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\bin\Debug\Npgsql.xml
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\bin\Debug\de\Npgsql.resources.dll
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\bin\Debug\es\Npgsql.resources.dll
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienHipotecado.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EliminarCuentaBT.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EstadoProcesal.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_DoiCliente.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_NombreTitular.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FormaMedidaCautelar.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_AuditoriaCeriv.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_CambioModelo.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_CreditosEliminados.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GerenciaSBP.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionCampo.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionLlamada.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeJudicial.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeSSI.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Liquidacion.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_PaseTransito.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteCartas.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_SolicitudAdelanto.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.F_Distrito.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.exe.manifest
+C:\Users\usuario\Desktop\INSTALADORE\Ceriv\Ceriv\obj\Debug\Ceriv.application
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\Ceriv.exe.config
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.ResolveComReference.cache
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.exe
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.pdb
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\Ceriv.exe.manifest
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\Ceriv.application
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\Ceriv.exe
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\Ceriv.pdb
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\Npgsql.pdb
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\Npgsql.xml
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\de\Npgsql.resources.dll
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\es\Npgsql.resources.dll
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienHipotecado.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EliminarCuentaBT.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EstadoProcesal.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_DoiCliente.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_NombreTitular.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FormaMedidaCautelar.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_AuditoriaCeriv.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_CambioModelo.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_CreditosEliminados.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GerenciaSBP.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionCampo.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionLlamada.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeJudicial.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeSSI.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Liquidacion.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_PaseTransito.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteCartas.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_SolicitudAdelanto.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.F_Distrito.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.exe.manifest
+H:\TRABAJO\_ceriv\Ceriv\Ceriv\obj\Debug\Ceriv.application
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.ResolveComReference.cache
+F:\Ceriv\Ceriv\bin\Debug\Npgsql.pdb
+F:\Ceriv\Ceriv\bin\Debug\Npgsql.xml
+F:\Ceriv\Ceriv\bin\Debug\de\Npgsql.resources.dll
+F:\Ceriv\Ceriv\bin\Debug\es\Npgsql.resources.dll
+F:\Ceriv\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+F:\Ceriv\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+F:\Ceriv\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+F:\Ceriv\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienHipotecado.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EliminarCuentaBT.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EstadoProcesal.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_DoiCliente.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_NombreTitular.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FormaMedidaCautelar.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_AuditoriaCeriv.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_CambioModelo.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_CreditosEliminados.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Dinamico.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GerenciaSBP.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionCampo.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionLlamada.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeJudicial.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeSSI.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Liquidacion.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_PaseTransito.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteCartas.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_SolicitudAdelanto.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.F_Distrito.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+F:\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+F:\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.config
+F:\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.manifest
+F:\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.application
+F:\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.exe
+F:\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.pdb
+F:\Ceriv\Ceriv\obj\Debug\GESTION DE COBRANZA.exe.manifest
+F:\Ceriv\Ceriv\obj\Debug\GESTION DE COBRANZA.application
+F:\Ceriv\Ceriv\obj\Debug\GESTION DE COBRANZA.exe
+F:\Ceriv\Ceriv\obj\Debug\GESTION DE COBRANZA.pdb
+C:\Users\usuario\Desktop\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.config
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\GESTION DE COBRANZA.exe
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\GESTION DE COBRANZA.pdb
+C:\Users\usuario\Desktop\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.manifest
+C:\Users\usuario\Desktop\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.application
+C:\Users\usuario\Desktop\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.exe
+C:\Users\usuario\Desktop\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.pdb
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Dinamico.resources
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\GESTION DE COBRANZA.exe.manifest
+C:\Users\usuario\Desktop\Ceriv\Ceriv\obj\Debug\GESTION DE COBRANZA.application
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.config
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.ResolveComReference.cache
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\GESTION DE COBRANZA.exe
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\GESTION DE COBRANZA.pdb
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.manifest
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.application
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.exe
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.pdb
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\bin\Debug\Npgsql.pdb
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\bin\Debug\Npgsql.xml
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienHipotecado.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EliminarCuentaBT.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EstadoProcesal.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_DoiCliente.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_NombreTitular.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FormaMedidaCautelar.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_AuditoriaCeriv.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_CambioModelo.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_CreditosEliminados.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Dinamico.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GerenciaSBP.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionCampo.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionLlamada.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeJudicial.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeSSI.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Liquidacion.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_PaseTransito.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteCartas.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_SolicitudAdelanto.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.F_Distrito.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\GESTION DE COBRANZA.exe.manifest
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\GESTION DE COBRANZA.application
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.SeleccionEstudio.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.config
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.ResolveComReference.cache
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\GESTION DE COBRANZA.exe
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\GESTION DE COBRANZA.pdb
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.manifest
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.application
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.exe
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.pdb
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\bin\Debug\Npgsql.pdb
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\bin\Debug\Npgsql.xml
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienHipotecado.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EliminarCuentaBT.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EstadoProcesal.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_DoiCliente.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_NombreTitular.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FormaMedidaCautelar.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_AuditoriaCeriv.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_CambioModelo.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_CreditosEliminados.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Dinamico.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GerenciaSBP.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionCampo.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionLlamada.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeJudicial.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeSSI.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Liquidacion.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_PaseTransito.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteCartas.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_SolicitudAdelanto.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.F_Distrito.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.SeleccionEstudio.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\GESTION DE COBRANZA.exe.manifest
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\GESTION DE COBRANZA.application
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloB.resources
+C:\Users\Administrador\Documents\Abogados\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloB.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Prueba.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.config
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.ResolveComReference.cache
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\GESTION DE COBRANZA.exe
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\GESTION DE COBRANZA.pdb
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.manifest
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.application
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.exe
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.pdb
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\bin\Debug\Npgsql.pdb
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\bin\Debug\Npgsql.xml
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienHipotecado.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EliminarCuentaBT.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EstadoProcesal.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_DoiCliente.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_NombreTitular.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FormaMedidaCautelar.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_AuditoriaCeriv.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_CambioModelo.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_CreditosEliminados.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Dinamico.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GerenciaSBP.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionCampo.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionLlamada.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeJudicial.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeSSI.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Liquidacion.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloB.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_PaseTransito.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteCartas.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_SolicitudAdelanto.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.F_Distrito.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Prueba.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.SeleccionEstudio.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\GESTION DE COBRANZA.exe.manifest
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\GESTION DE COBRANZA.application
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.F_Seguimiento.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.config
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.ResolveComReference.cache
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\GESTION DE COBRANZA.exe
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\GESTION DE COBRANZA.pdb
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.manifest
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.application
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.exe
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.pdb
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\bin\Debug\Npgsql.pdb
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\bin\Debug\Npgsql.xml
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.BienHipotecado.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EliminarCuentaBT.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.EstadoProcesal.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_DoiCliente.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.E_NombreTitular.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FormaMedidaCautelar.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_AuditoriaCeriv.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_CambioModelo.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_CreditosEliminados.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Dinamico.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GerenciaSBP.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionCampo.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionLlamada.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeJudicial.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeSSI.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Liquidacion.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloB.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_PaseTransito.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteCartas.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_SolicitudAdelanto.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.F_Distrito.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.F_Seguimiento.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Prueba.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.SeleccionEstudio.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\GESTION DE COBRANZA.exe.manifest
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\GESTION DE COBRANZA.application
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloA.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Proempresa.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloC.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Sullana.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloA.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloC.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Proempresa.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Sullana.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.F_Seguimiento.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Llamada.resources
+C:\Users\Fernando\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Llamada.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Llamada.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloA.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloC.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Proempresa.resources
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_Sullana.resources
+C:\Users\Fernando\Desktop\NEW\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteTodo.resources
+H:\PERU_ABOGADOS\Ceriv\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.config
+H:\PERU_ABOGADOS\Ceriv\Ceriv\obj\Debug\Ceriv.csproj.ResolveComReference.cache
+H:\PERU_ABOGADOS\Ceriv\Ceriv\obj\Debug\GESTION DE COBRANZA.exe
+H:\PERU_ABOGADOS\Ceriv\Ceriv\obj\Debug\GESTION DE COBRANZA.pdb
+C:\Users\Administrador\Desktop\Ceriv\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteTodo.resources
+C:\Users\Administrador\Desktop\GestionCobranzaV2\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.config
+C:\Users\Administrador\Desktop\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.csproj.ResolveComReference.cache
+C:\Users\Administrador\Desktop\GestionCobranzaV2\Ceriv\obj\Debug\GESTION DE COBRANZA.exe
+C:\Users\Administrador\Desktop\GestionCobranzaV2\Ceriv\obj\Debug\GESTION DE COBRANZA.pdb
+D:\Documentos\GestionCobranzaV2\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.config
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.csproj.ResolveComReference.cache
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\GESTION DE COBRANZA.exe
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\GESTION DE COBRANZA.pdb
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.BienHipotecado.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.EliminarCuentaBT.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.EstadoProcesal.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.E_DoiCliente.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.E_NombreTitular.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.FormaMedidaCautelar.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.FR_AuditoriaCeriv.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.FR_CambioModelo.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.FR_CreditosEliminados.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.FR_Dinamico.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.FR_GerenciaSBP.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionCampo.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionLlamada.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeJudicial.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeSSI.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.FR_Liquidacion.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.FR_Llamada.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloA.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloB.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloC.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.FR_PaseTransito.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.FR_Proempresa.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteCartas.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteTodo.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.FR_SolicitudAdelanto.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.FR_Sullana.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.F_Distrito.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.F_Seguimiento.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.Prueba.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.SeleccionEstudio.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+D:\Documentos\GestionCobranzaV2\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.manifest
+D:\Documentos\GestionCobranzaV2\Ceriv\bin\Debug\GESTION DE COBRANZA.application
+D:\Documentos\GestionCobranzaV2\Ceriv\bin\Debug\GESTION DE COBRANZA.exe
+D:\Documentos\GestionCobranzaV2\Ceriv\bin\Debug\GESTION DE COBRANZA.pdb
+D:\Documentos\GestionCobranzaV2\Ceriv\bin\Debug\Npgsql.pdb
+D:\Documentos\GestionCobranzaV2\Ceriv\bin\Debug\Npgsql.xml
+D:\Documentos\GestionCobranzaV2\Ceriv\bin\Debug\de\Npgsql.resources.dll
+D:\Documentos\GestionCobranzaV2\Ceriv\bin\Debug\es\Npgsql.resources.dll
+D:\Documentos\GestionCobranzaV2\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+D:\Documentos\GestionCobranzaV2\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+D:\Documentos\GestionCobranzaV2\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+D:\Documentos\GestionCobranzaV2\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.Documentos.resources
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\GESTION DE COBRANZA.exe.manifest
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\GESTION DE COBRANZA.application
+D:\Documentos\GestionCobranzaV2\Ceriv\obj\Debug\Ceriv.Formularios.FD_Expediente.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.config
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.csproj.ResolveComReference.cache
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\GESTION DE COBRANZA.exe
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\GESTION DE COBRANZA.pdb
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.BienHipotecado.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.Documentos.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.EliminarCuentaBT.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.EstadoProcesal.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.E_DoiCliente.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.E_NombreTitular.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.FormaMedidaCautelar.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.FR_AuditoriaCeriv.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.FR_CambioModelo.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.FR_CreditosEliminados.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.FR_Dinamico.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.FR_GerenciaSBP.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionCampo.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionLlamada.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeJudicial.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeSSI.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.FR_Liquidacion.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.FR_Llamada.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloA.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloB.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloC.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.FR_PaseTransito.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.FR_Proempresa.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteCartas.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteTodo.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.FR_SolicitudAdelanto.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.FR_Sullana.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.F_Distrito.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.FD_Expediente.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.F_Seguimiento.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.Prueba.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.SeleccionEstudio.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.manifest
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\bin\Debug\GESTION DE COBRANZA.application
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\bin\Debug\GESTION DE COBRANZA.exe
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\bin\Debug\GESTION DE COBRANZA.pdb
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\bin\Debug\Npgsql.pdb
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\bin\Debug\Npgsql.xml
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\bin\Debug\de\Npgsql.resources.dll
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\bin\Debug\es\Npgsql.resources.dll
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\GESTION DE COBRANZA.exe.manifest
+D:\Documentos\Visual Studio 2012\Projects\Ceriv\obj\Debug\GESTION DE COBRANZA.application
+C:\Users\Fernando\Desktop\Abogados\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.config
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.csproj.ResolveComReference.cache
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\GESTION DE COBRANZA.exe
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\GESTION DE COBRANZA.pdb
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.BienHipotecado.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.Documentos.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.EliminarCuentaBT.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.EstadoProcesal.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.E_DoiCliente.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.E_NombreTitular.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FormaMedidaCautelar.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_AuditoriaCeriv.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_CambioModelo.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_CreditosEliminados.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_Dinamico.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_GerenciaSBP.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionCampo.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionLlamada.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeJudicial.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeSSI.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_Liquidacion.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_Llamada.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloA.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloB.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloC.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_PaseTransito.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_Proempresa.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteCartas.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteTodo.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_SolicitudAdelanto.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_Sullana.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.F_Distrito.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FD_Expediente.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.F_Seguimiento.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.Prueba.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.SeleccionEstudio.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+C:\Users\Fernando\Desktop\Abogados\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.manifest
+C:\Users\Fernando\Desktop\Abogados\Ceriv\bin\Debug\GESTION DE COBRANZA.application
+C:\Users\Fernando\Desktop\Abogados\Ceriv\bin\Debug\GESTION DE COBRANZA.exe
+C:\Users\Fernando\Desktop\Abogados\Ceriv\bin\Debug\GESTION DE COBRANZA.pdb
+C:\Users\Fernando\Desktop\Abogados\Ceriv\bin\Debug\Npgsql.pdb
+C:\Users\Fernando\Desktop\Abogados\Ceriv\bin\Debug\Npgsql.xml
+C:\Users\Fernando\Desktop\Abogados\Ceriv\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Fernando\Desktop\Abogados\Ceriv\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Fernando\Desktop\Abogados\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Fernando\Desktop\Abogados\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Fernando\Desktop\Abogados\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Fernando\Desktop\Abogados\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\GESTION DE COBRANZA.exe.manifest
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\GESTION DE COBRANZA.application
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.MacroEtapa.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.MicroEtapa.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.MacroMicro.resources
+C:\Users\Fernando\Desktop\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.TipoUbicacion.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.config
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.csproj.ResolveComReference.cache
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\GESTION DE COBRANZA.exe
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\GESTION DE COBRANZA.pdb
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.manifest
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\bin\Debug\GESTION DE COBRANZA.application
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\bin\Debug\GESTION DE COBRANZA.exe
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\bin\Debug\GESTION DE COBRANZA.pdb
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\bin\Debug\Npgsql.pdb
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\bin\Debug\Npgsql.xml
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\bin\Debug\de\Npgsql.resources.dll
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\bin\Debug\es\Npgsql.resources.dll
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.BienHipotecado.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.Documentos.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.EliminarCuentaBT.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.EstadoProcesal.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.E_DoiCliente.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.E_NombreTitular.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FormaMedidaCautelar.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_AuditoriaCeriv.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_CambioModelo.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_CreditosEliminados.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_Dinamico.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_GerenciaSBP.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionCampo.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionLlamada.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeJudicial.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeSSI.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_Liquidacion.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_Llamada.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloA.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloB.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloC.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_PaseTransito.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_Proempresa.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteCartas.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteTodo.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_SolicitudAdelanto.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_Sullana.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.F_Distrito.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FD_Expediente.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.F_Seguimiento.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.MacroEtapa.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.MacroMicro.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.MicroEtapa.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.Prueba.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.SeleccionEstudio.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.TipoUbicacion.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\GESTION DE COBRANZA.exe.manifest
+D:\Escritorio\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\GESTION DE COBRANZA.application
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.config
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.csproj.ResolveComReference.cache
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\GESTION DE COBRANZA.exe
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\GESTION DE COBRANZA.pdb
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.manifest
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\bin\Debug\GESTION DE COBRANZA.application
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\bin\Debug\GESTION DE COBRANZA.exe
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\bin\Debug\GESTION DE COBRANZA.pdb
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\bin\Debug\Npgsql.pdb
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\bin\Debug\Npgsql.xml
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\bin\Debug\de\Npgsql.resources.dll
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\bin\Debug\es\Npgsql.resources.dll
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.BienHipotecado.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.Documentos.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.EliminarCuentaBT.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.EstadoProcesal.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.E_DoiCliente.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.E_NombreTitular.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FormaMedidaCautelar.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_AuditoriaCeriv.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_CambioModelo.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_CreditosEliminados.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_Dinamico.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_GerenciaSBP.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionCampo.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionLlamada.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeJudicial.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeSSI.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_Liquidacion.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_Llamada.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloA.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloB.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloC.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_PaseTransito.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_Proempresa.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteCartas.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteTodo.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_SolicitudAdelanto.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FR_Sullana.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.F_Distrito.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.FD_Expediente.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.F_Seguimiento.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.MacroEtapa.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.MacroMicro.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.MicroEtapa.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.Prueba.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.SeleccionEstudio.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.TipoUbicacion.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\GESTION DE COBRANZA.exe.manifest
+D:\PROYECTOS\PROYECTOS -TRABAJOS\PROYECTO - SERVICORP\PROYECTO - PERÚ ABOGADOS\23-10-2017\CERIV - ULTIMO\Abogados\Ceriv\obj\Debug\GESTION DE COBRANZA.application
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.config
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.csproj.ResolveComReference.cache
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\GESTION DE COBRANZA.exe
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\GESTION DE COBRANZA.pdb
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.manifest
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\bin\Debug\GESTION DE COBRANZA.application
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\bin\Debug\GESTION DE COBRANZA.exe
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\bin\Debug\GESTION DE COBRANZA.pdb
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\bin\Debug\Npgsql.pdb
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\bin\Debug\Npgsql.xml
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.BienHipotecado.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.Documentos.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.EliminarCuentaBT.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.EstadoProcesal.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.E_DoiCliente.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.E_NombreTitular.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FormaMedidaCautelar.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_AuditoriaCeriv.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_CambioModelo.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_CreditosEliminados.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_Dinamico.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_GerenciaSBP.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionCampo.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionLlamada.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeJudicial.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeSSI.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_Liquidacion.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_Llamada.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloA.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloB.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloC.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_PaseTransito.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_Proempresa.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteCartas.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteTodo.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_SolicitudAdelanto.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_Sullana.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.F_Distrito.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FD_Expediente.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.F_Seguimiento.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.MacroEtapa.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.MacroMicro.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.MicroEtapa.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.SeleccionEstudio.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.TipoUbicacion.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\GESTION DE COBRANZA.exe.manifest
+C:\Users\Fernando\Desktop\CERIV - ULTIMO\Abogadoss\Ceriv\obj\Debug\GESTION DE COBRANZA.application
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.config
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.csproj.ResolveComReference.cache
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\GESTION DE COBRANZA.exe
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\GESTION DE COBRANZA.pdb
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.manifest
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\bin\Debug\GESTION DE COBRANZA.application
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\bin\Debug\GESTION DE COBRANZA.exe
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\bin\Debug\GESTION DE COBRANZA.pdb
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\bin\Debug\Npgsql.pdb
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\bin\Debug\Npgsql.xml
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\bin\Debug\de\Npgsql.resources.dll
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\bin\Debug\es\Npgsql.resources.dll
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.BienHipotecado.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.Documentos.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.EliminarCuentaBT.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.EstadoProcesal.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.E_DoiCliente.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.E_NombreTitular.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FormaMedidaCautelar.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_AuditoriaCeriv.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_CambioModelo.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_CreditosEliminados.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_Dinamico.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_GerenciaSBP.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionCampo.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionLlamada.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeJudicial.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeSSI.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_Liquidacion.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_Llamada.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloA.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloB.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloC.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_PaseTransito.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_Proempresa.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteCartas.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteTodo.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_SolicitudAdelanto.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FR_Sullana.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.F_Distrito.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.FD_Expediente.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.F_Seguimiento.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.MacroEtapa.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.MacroMicro.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.MicroEtapa.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.SeleccionEstudio.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.TipoUbicacion.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\GESTION DE COBRANZA.exe.manifest
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\GESTION DE COBRANZA.application
+D:\PROGRAMAS INSTALADOS\PROGRAMAS - PROGRAMACION\Microsoft Visual Studio Ultimate 2012\Projects\Abogadoss\Ceriv\obj\Debug\Ceriv.Formularios.F_ReporteLiquidaciones.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.config
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.csproj.ResolveComReference.cache
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\GESTION DE COBRANZA.exe
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\GESTION DE COBRANZA.pdb
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.manifest
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\bin\Debug\GESTION DE COBRANZA.application
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\bin\Debug\GESTION DE COBRANZA.exe
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\bin\Debug\GESTION DE COBRANZA.pdb
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\bin\Debug\Npgsql.pdb
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\bin\Debug\Npgsql.xml
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\bin\Debug\de\Npgsql.resources.dll
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\bin\Debug\es\Npgsql.resources.dll
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.csprojResolveAssemblyReference.cache
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.BienHipotecado.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.Documentos.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.EliminarCuentaBT.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.EstadoProcesal.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.E_DoiCliente.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.E_NombreTitular.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FormaMedidaCautelar.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_AuditoriaCeriv.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_CambioModelo.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_CreditosEliminados.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_Dinamico.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_GerenciaSBP.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionCampo.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionLlamada.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeJudicial.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeSSI.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_Liquidacion.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_Llamada.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloA.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloB.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloC.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_PaseTransito.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_Proempresa.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteCartas.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteTodo.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_SolicitudAdelanto.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_Sullana.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.F_Distrito.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FD_Expediente.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.F_ReporteLiquidaciones.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.F_Seguimiento.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.MacroEtapa.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.MacroMicro.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.MicroEtapa.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.SeleccionEstudio.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.TipoUbicacion.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.Cache
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\GESTION DE COBRANZA.exe.manifest
+D:\Todo\Empresa\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\GESTION DE COBRANZA.application
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.csprojAssemblyReference.cache
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.csproj.ResolveComReference.cache
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.BienEmbargado.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.BienHipotecado.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.Cartera.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.Ciudad.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.CrearModificar.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.Documentos.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.EliminarCuentaBT.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.EstadoProcesal.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.Estudio.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.E_DoiCliente.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.E_NombreTitular.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FormaMedidaCautelar.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_AuditoriaCeriv.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_CambioModelo.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_CreditosEliminados.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_Dinamico.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_GerenciaSBP.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionCampo.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_GestionLlamada.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeJudicial.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_InformeSSI.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_Liquidacion.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_Llamada.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloA.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloB.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_ModeloC.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_PaseTransito.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_Proempresa.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteCartas.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_ReporteTodo.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_SolicitudAdelanto.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FR_Sullana.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.F_Distrito.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.FD_Expediente.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.F_ReporteLiquidaciones.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.F_Seguimiento.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.Inicio.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.MacroEtapa.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.MacroMicro.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.MicroEtapa.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.Permisos.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.Principal.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.RangoHipoteca.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.SeleccionEstudio.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.TipoProceso.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.TipoUbicacion.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Formularios.Trabajador.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.Properties.Resources.resources
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.csproj.GenerateResource.cache
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.csproj.CoreCompileInputs.cache
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\GESTION DE COBRANZA.exe
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\GESTION DE COBRANZA.pdb
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.config
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\bin\Debug\GESTION DE COBRANZA.exe.manifest
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\bin\Debug\GESTION DE COBRANZA.application
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\bin\Debug\GESTION DE COBRANZA.exe
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\bin\Debug\GESTION DE COBRANZA.pdb
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\bin\Debug\Npgsql.pdb
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\bin\Debug\Npgsql.xml
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\bin\Debug\de\Npgsql.resources.dll
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\bin\Debug\es\Npgsql.resources.dll
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\bin\Debug\fi\Npgsql.resources.dll
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\bin\Debug\fr\Npgsql.resources.dll
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\bin\Debug\ja\Npgsql.resources.dll
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\GESTION DE COBRANZA.exe.manifest
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\GESTION DE COBRANZA.application
+D:\Google Drive\Fernando Personal\Proyectos\PeruAbogadosEscritorio\PERU ABOGADOS - LIQUIDACIONES\GestionCobranzaV2.2\Ceriv\obj\Debug\Ceriv.csproj.CopyComplete
